@@ -6,21 +6,13 @@ import { getFirestore } from "firebase/firestore";
 
 // Define the Firebase configuration object
 const firebaseConfig = {
-  // apiKey: "AIzaSyDqsHsOtK0QSM4t3Hb08UPh2NBOwBB8YtM",
-  // authDomain: "fir-blog-d0dcf.firebaseapp.com",
-  // projectId: "fir-blog-d0dcf",
-  // storageBucket: "fir-blog-d0dcf.appspot.com",
-  // messagingSenderId: "23430314381",
-  // appId: "1:23430314381:web:ebc4cf5b2e8c7ec75a65c4",
-  // measurementId: "G-2KCT6X0X3G",
-
-  apiKey: "AIzaSyAJH1hzBbYyHmo3mLg1UnxsJyQdgBq25_I",
-  authDomain: "chatter-9b2b4.firebaseapp.com",
-  projectId: "chatter-9b2b4",
-  storageBucket: "chatter-9b2b4.appspot.com",
-  messagingSenderId: "1085860566139",
-  appId: "1:1085860566139:web:735bbb0278e97d34f37ede",
-  measurementId: "G-ZL8F6B2B41",
+  apiKey: "AIzaSyDZvTtxKgnEjnaPKGmfnqGGITNmQSXXtFA",
+  authDomain: "chatter-app-f9255.firebaseapp.com",
+  projectId: "chatter-app-f9255",
+  storageBucket: "chatter-app-f9255.appspot.com",
+  messagingSenderId: "251277526930",
+  appId: "1:251277526930:web:25276eaa8cf7afe19aa34b",
+  measurementId: "G-NN393VRKZ5",
 };
 
 // Initialize Firebase
